@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm an ambitious software engineer that likes to learn new things and new challenges.
-I'm currently learning devOps technologies.
+I'm an ambitious software engineer that likes to learn new things and new challenges. <br />
+I'm currently learning devOps tools and technologies.
 
 
 ## 🌐 Socials:

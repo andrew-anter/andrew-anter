@@ -1,11 +1,6 @@
 # 💫 About Me:
-I am a Junior DevOps Engineer with a passion for building and automating scalable, reliable, and secure infrastructure. I am skilled in a variety of technologies, including Terraform, Kubernetes, Docker, and Jenkins. I am also proficient in scripting languages such as Python and Bash.
+I am A Software engineer with a proven track record of developing and deploying high-performance web applications. Skilled in Django, JavaScript, and Bootstrap, with experience in asynchronous task handling, message queuing, and caching.  Successfully designed and implemented a document management system to optimize workflows and enhance security. Background in IT infrastructure management and a disciplined approach to problem-solving.  
 
-During my internship at ITI DevOps Stack, I gained experience in building and maintaining Kubernetes clusters on Google Cloud Platform. I also developed a CI/CD pipeline using Jenkins to automate the deployment of applications to the cluster. My work resulted in a significant improvement in the reliability and security of the company's infrastructure.
-
-I am a highly motivated and self-directed individual with a strong desire to learn and grow. I am also a team player and am always willing to help others. I am confident that I have the skills and experience necessary to be a successful Junior DevOps Engineer.
-
-I am currently looking for a new opportunity where I can use my skills and experience to make a positive impact on a company's infrastructure. If you have any questions or would like to discuss my qualifications further, please do not hesitate to contact me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-anter) 

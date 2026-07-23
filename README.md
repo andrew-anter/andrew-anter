@@ -20,7 +20,6 @@ and high-throughput digitization platforms in Cairo, Egypt.
 
 ### Currently
 
-- Architecting a service-based student management system
 - Exploring local LLM inference and document processing pipelines
 
 ### Connect

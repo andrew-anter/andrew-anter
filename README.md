@@ -2,7 +2,7 @@
 
 # Andrew Anter
 
-**Software Engineer at OEC** · Cairo, Egypt
+**Senior Backend Engineer | Python • Django • Distributed Systems at OEC** · Cairo, Egypt
 
 I build enterprise document systems and high-throughput digitization platforms — Python/Django backends, local LLM inference, air-gapped deployments.
 

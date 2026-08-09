@@ -2,7 +2,7 @@
 
 # Andrew Anter
 
-**Senior Backend Engineer | Python • Django • Distributed Systems at OEC** · Cairo, Egypt
+**SBackend Engineer | Python • Django • Async Data Pipelines** · Cairo, Egypt
 
 I build enterprise document systems and high-throughput digitization platforms — Python/Django backends, local LLM inference, air-gapped deployments.
 
@@ -33,9 +33,6 @@ I build enterprise document systems and high-throughput digitization platforms �
 |---|---|---|
 | [pages_counter](https://github.com/andrew-anter/pages_counter) | Counts PDF pages in `.tar.zst` archives without extracting to disk | Python |
 | [Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal) | Multi-tenant backend for a logistics SaaS platform | Python, Django |
-| [TaskMaster](https://github.com/andrew-anter/TaskMaster) | Web-based task management app | Django, JavaScript |
-| [content-searcher](https://github.com/andrew-anter/content-searcher) | CLI tool for finding files by content | Go |
-| [AWS-Infrastructure-Setup-with-Terraform](https://github.com/andrew-anter/AWS-Infrastructure-Setup-with-Terraform) | AWS infrastructure as code | Terraform, HCL |
 
 ## Currently
 

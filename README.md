@@ -4,13 +4,19 @@
 
 **End-to-End Product Engineer** · Cairo, Egypt
 
+<br>
+
 </div>
 
 ---
 
+<br>
+
 ## 👋 About me
 
 I'm a product engineer: I take things from an idea to a running system, and I stay to operate what I built.
+
+<br>
 
 - **What I do** — I build systems end to end, backend to frontend, whatever the business problem needs — lately with the help of agentic AI. Deep expertise in document management and document intelligence: ingestion, extraction, search at scale.
 
@@ -22,11 +28,19 @@ I'm a product engineer: I take things from an idea to a running system, and I st
 
 - **Where I started** — I joined a company that had no servers, no code, and no infrastructure. I built all of it, and I later led its small engineering team.
 
+<br>
+
 ---
+
+<br>
 
 ## 🛠️ What I build with
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=python,django,go,postgres,redis,rabbitmq,docker,debian,linux,opencv,git,gitlab,bash&theme=light" width="100%" alt="Tech stack" />
+
+<br>
 
 - **Languages & frameworks** — Python (strict typing), Go, Django (MVT, custom middleware, HTMX), Celery
 - **Data & messaging** — PostgreSQL (per-VM tuning), Meilisearch, Redis/Valkey, MinIO, RabbitMQ
@@ -35,9 +49,15 @@ I'm a product engineer: I take things from an idea to a running system, and I st
 - **Security** — Samba AD + GPO, Cloudflare WAF, UFW, CrowdSec, OSV-Scanner, Bandit
 - **Quality** — Pytest, Ruff, BasedPyright
 
+<br>
+
 ---
 
+<br>
+
 ## 📌 Featured projects
+
+<br>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -45,7 +65,11 @@ I'm a product engineer: I take things from an idea to a running system, and I st
 | **[Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal)** | Multi-tenant backend for a logistics SaaS platform | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
 | **[TaskMaster](https://github.com/andrew-anter/TaskMaster)** | Task manager with Django 5 + HTMX + Celery, full devsecops toolchain (219 commits) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square) |
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 

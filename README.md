@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center" markdown="1">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=Andrew%20Anter&fontSize=60&fontAlignY=35&desc=End-to-End%20Product%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+# Andrew Anter
+
+**End-to-End Product Engineer** · Cairo, Egypt
 
 </div>
 
@@ -18,4 +20,9 @@ I'm a product engineer: I take things from an idea to a running system, and I st
 
 - **Where I started** — I joined a company that had no servers, no code, and no infrastructure. I built all of it, and I later led its small engineering team.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer" width="100%" />
+<div align="center">
+
+<a href="mailto:andrew.anter@gmail.com"><img src="https://img.shields.io/badge/andrew.anter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/andrew-anter"><img src="https://img.shields.io/badge/linkedin.com/in/andrew--anter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>

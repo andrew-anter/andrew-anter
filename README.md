@@ -4,7 +4,8 @@
 
 **End-to-End Product Engineer** · Cairo, Egypt
 
-<br>
+<a href="mailto:andrew.anter@gmail.com"><img src="https://img.shields.io/badge/andrew.anter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/andrew-anter"><img src="https://img.shields.io/badge/linkedin.com/in/andrew--anter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -61,19 +62,9 @@ I'm a product engineer: I take things from an idea to a running system, and I st
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[pages_counter](https://github.com/andrew-anter/pages_counter)** | Counts PDF pages inside `.tar.zst` archives without extracting them to disk | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal)** | Multi-tenant backend for a logistics SaaS platform | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **[TaskMaster](https://github.com/andrew-anter/TaskMaster)** | Task manager with Django 5 + HTMX + Celery, full devsecops toolchain (219 commits) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square) |
+| **[Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal)** | Multi-tenant backend for a logistics SaaS platform: complete REST API, Celery async processing, Dockerized behind NGINX | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/REST_Framework-092E20?style=flat-square&logo=djangorestframework&logoColor=white) |
+| **[TaskMaster](https://github.com/andrew-anter/TaskMaster)** | Django 5 task manager with an HTMX single-page feel: labels, notifications, reminders, REST API, Tailwind + daisyUI light/dark | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat-square) |
+| **[content-searcher](https://github.com/andrew-anter/content-searcher)** | Offline desktop search (Wails v2): indexes PDF/Word documents with SQLite FTS5 — Arabic/English normalization so diacritics and spelling variants still match | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **[pages_counter](https://github.com/andrew-anter/pages_counter)** | Streams page counts from `.tar.zst` archives and loose PDFs — never fully loaded into RAM; parallel workers, CLI and GUI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[todo-golang](https://github.com/andrew-anter/todo-golang)** | `td` — terminal todo app in Go: interactive Bubble Tea TUI plus scriptable pipe mode, projects as namespaces, layered config | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<a href="mailto:andrew.anter@gmail.com"><img src="https://img.shields.io/badge/andrew.anter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/andrew-anter"><img src="https://img.shields.io/badge/linkedin.com/in/andrew--anter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-</div>

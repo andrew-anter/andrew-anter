@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Andrew%20Anter&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Andrew%20Anter&fontSize=60&fontAlignY=35&desc=Product%20Engineer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/andrew-anter">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Engineer;Python+%E2%80%A2+Django+%E2%80%A2+Async+Data+Pipelines;720%2B+k+pages+digitized;Local+LLM+inference+in+air-gapped+networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Product+Engineer;End-to-end:+requirements+%E2%86%92+hardware+%E2%86%92+production;720k%2B+pages+digitized;Local+LLM+inference+in+air-gapped+networks" alt="Typing SVG" />
 </a>
 
-I build enterprise document systems and high-throughput digitization platforms —
-Python/Django backends, local LLM inference, air-gapped deployments.
+End-to-end product engineer — from user requirements to hardware selection to architecture to production operation. 
+
+Sole engineer who built OEC's engineering from zero: enterprise document
+systems, high-throughput digitization, local LLM inference, air-gapped delivery.
 
 </div>
 
 ## ⚡ At a glance
 
-| | | |
-|:---|:---|:---|
-| 🏢 **3** enterprise DMS deployments in production (first live Dec 2024) | ⚡ **720,000+** pages processed through self-hosted digitization pipelines | 🔒 Multiple **air-gapped** project cycles deployed & decommissioned since 2024 |
-| 🚀 **~2.7×** throughput gain (1.5s → 0.565s/page) via profiling, ORM & Celery tuning | 🧠 **Local VLM inference** with llama.cpp (Qwen3.5-9B); OCR pipelines (Tesseract OSD) | 👥 **Technical direction & mentoring**; architect across all OEC products |
+| 🏢 **3** enterprise DMS deployments in production (first live Dec 2024)                          | ⚡ **720,000+** pages digitized across enterprise engagements (architecture designed for millions)                                    | 🔒 Multiple **air-gapped** project cycles deployed & decommissioned since 2024                |
+|:------------------------------------------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------------ |:--------------------------------------------------------------------------------------------- |
+| 🚀 **~2.65× faster** per-page processing (1.5s → 0.565s, ≈62%) via profiling, ORM & Celery tuning | 🧠 **Local VLM inference** with llama.cpp (Qwen3.5-9B); orientation detection migrated from Tesseract OSD to an in-house-trained CNN | 👥 **Technical lead** for 2 engineers; mentored 4 interns — architect across all OEC products |
 
 ## 🛠️ Tech stack
 
@@ -33,10 +34,10 @@ Python/Django backends, local LLM inference, air-gapped deployments.
 
 ## 📌 Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[pages_counter](https://github.com/andrew-anter/pages_counter)** | Counts PDF pages in `.tar.zst` archives without extracting to disk | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal)** | Multi-tenant backend for a logistics SaaS platform | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| Project                                                                  | Description                                                        | Stack                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[pages_counter](https://github.com/andrew-anter/pages_counter)**       | Counts PDF pages in `.tar.zst` archives without extracting to disk | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                                     |
+| **[Logistics-Portal](https://github.com/andrew-anter/Logistics-Portal)** | Multi-tenant backend for a logistics SaaS platform                 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
 
 ## 🌱 Currently
 
